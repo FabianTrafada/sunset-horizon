@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/sunset-horizon.git"
+    "url": "https://github.com/FabianTrafada/sunset-horizon"
   },
   "bugs": {
-    "url": "https://github.com/your-username/sunset-horizon/issues"
+    "url": "https://github.com/FabianTrafada/sunset-horizon/issues"
   },
-  "homepage": "https://github.com/your-username/sunset-horizon#readme",
+  "homepage": "https://github.com/FabianTrafada/sunset-horizon#readme",
   "contributes": {
     "themes": [
       {
