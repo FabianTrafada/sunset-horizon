@@ -1,0 +1,38 @@
+{
+  "name": "sunset-horizon",
+  "displayName": "Sunset Horizon",
+  "description": "A beautiful warm sunset-themed color scheme for VS Code",
+  "version": "0.0.1",
+  "publisher": "fabiantrafada",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "sunset",
+    "warm colors",
+    "orange",
+    "color scheme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/sunset-horizon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/sunset-horizon/issues"
+  },
+  "homepage": "https://github.com/your-username/sunset-horizon#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset Horizon-color-theme.json"
+      }
+    ]
+  }
+}
